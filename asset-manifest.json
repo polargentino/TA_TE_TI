@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TA_TE_TI.github.io/static/css/main.b05d8053.css",
-    "main.js": "/TA_TE_TI.github.io/static/js/main.d818384e.js",
-    "static/js/787.7f4839f8.chunk.js": "/TA_TE_TI.github.io/static/js/787.7f4839f8.chunk.js",
-    "index.html": "/TA_TE_TI.github.io/index.html",
-    "main.b05d8053.css.map": "/TA_TE_TI.github.io/static/css/main.b05d8053.css.map",
-    "main.d818384e.js.map": "/TA_TE_TI.github.io/static/js/main.d818384e.js.map",
-    "787.7f4839f8.chunk.js.map": "/TA_TE_TI.github.io/static/js/787.7f4839f8.chunk.js.map"
+    "main.css": "/github.io-TA_TE_TI/static/css/main.b05d8053.css",
+    "main.js": "/github.io-TA_TE_TI/static/js/main.ca69390f.js",
+    "static/js/787.7f4839f8.chunk.js": "/github.io-TA_TE_TI/static/js/787.7f4839f8.chunk.js",
+    "index.html": "/github.io-TA_TE_TI/index.html",
+    "main.b05d8053.css.map": "/github.io-TA_TE_TI/static/css/main.b05d8053.css.map",
+    "main.ca69390f.js.map": "/github.io-TA_TE_TI/static/js/main.ca69390f.js.map",
+    "787.7f4839f8.chunk.js.map": "/github.io-TA_TE_TI/static/js/787.7f4839f8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b05d8053.css",
-    "static/js/main.d818384e.js"
+    "static/js/main.ca69390f.js"
   ]
 }
