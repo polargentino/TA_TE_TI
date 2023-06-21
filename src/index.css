@@ -1,4 +1,4 @@
-body {
+/*body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,4 +10,57 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}*/
+
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: cursive;
+  margin: 20px;
+  padding: 0;
+  color: rgb(192, 50, 205);
+  font-size: 33PX;
+  background-color: rgb(247, 237, 99);
+}
+h1{
+  color: rgb(37, 65, 51);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.square {
+  background: #84d364;
+  border: 2px solid orangered;
+  float: left;
+  font-size: 54px;
+  font-weight: bold;
+  line-height: 34px;
+  height: 64px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 64px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.board-row:after {
+  clear: both;
+  content: '';
+  display: table;
+  
+}
+
+.status {
+  margin-bottom: 10px;
+}
+.game {
+  display: flex;
+  flex-direction: row;
+}
+
+.game-info {
+  margin-left: 20px;
 }
