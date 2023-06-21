@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/polargentino/TA_TE_TI.git/static/css/main.b05d8053.css",
+    "main.js": "/polargentino/TA_TE_TI.git/static/js/main.d9293c55.js",
+    "static/js/787.7f4839f8.chunk.js": "/polargentino/TA_TE_TI.git/static/js/787.7f4839f8.chunk.js",
+    "index.html": "/polargentino/TA_TE_TI.git/index.html",
+    "main.b05d8053.css.map": "/polargentino/TA_TE_TI.git/static/css/main.b05d8053.css.map",
+    "main.d9293c55.js.map": "/polargentino/TA_TE_TI.git/static/js/main.d9293c55.js.map",
+    "787.7f4839f8.chunk.js.map": "/polargentino/TA_TE_TI.git/static/js/787.7f4839f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b05d8053.css",
+    "static/js/main.d9293c55.js"
+  ]
+}
